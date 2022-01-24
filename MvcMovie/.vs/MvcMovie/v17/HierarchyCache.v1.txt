@@ -1,0 +1,285 @@
+﻿++Solution 'MvcMovie' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MvcMovie.sln
+++MvcMovie
+i:{00000000-0000-0000-0000-000000000000}:MvcMovie
+++Connected Services 
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>309
+++Dependencies
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>308
+++Properties
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\properties\
+++launchSettings.json
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\properties\launchsettings.json
+++serviceDependencies.json
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\properties\servicedependencies.json
+++wwwroot
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\
+++Controllers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\controllers\
+++HelloWorldController.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\controllers\helloworldcontroller.cs
+++HomeController.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\controllers\homecontroller.cs
+++MoviesController.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\controllers\moviescontroller.cs
+++Data
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\data\
+++MvcMovieContext.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\data\mvcmoviecontext.cs
+++Models
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\models\
+++ErrorViewModel.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\models\errorviewmodel.cs
+++Movie.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\models\movie.cs
+++Views
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\
+++HelloWorld
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\helloworld\
+++Index.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\helloworld\index.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\home\index.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\movies\index.cshtml
+++Welcome.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\helloworld\welcome.cshtml
+++Home
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\home\
+++Privacy.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\home\privacy.cshtml
+++Movies
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\movies\
+++Create.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\movies\create.cshtml
+++Delete.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\movies\delete.cshtml
+++Details.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\movies\details.cshtml
+++Edit.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\movies\edit.cshtml
+++Shared
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\shared\
+++_Layout.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\_viewstart.cshtml
+++appsettings.json
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\appsettings.json
+++Program.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:MvcMovieContext)
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>917
+++Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:analyzers
+++Frameworks
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:frameworks
+++Packages
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:packages
+++serviceDependencies.local.json
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\properties\servicedependencies.local.json
+++css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\css\
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\js\
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\
+++favicon.ico
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\favicon.ico
+++_Layout.cshtml.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\appsettings.development.json
+++MessagePackAnalyzer
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>334
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>336
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>346
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:>815
+++site.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\css\site.css
+++site.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\js\site.js
+++bootstrap
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\
+++jquery
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery\
+++jquery-validation
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery\license.txt
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Migrations
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\migrations\
+++20220119040352_InitialCreate.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\migrations\20220119040352_initialcreate.cs
+++MvcMovieContextModelSnapshot.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\migrations\mvcmoviecontextmodelsnapshot.cs
+++20220119040352_InitialCreate.Designer.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\migrations\20220119040352_initialcreate.designer.cs
+++SeedData.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\models\seeddata.cs
+++MovieGenreViewModel.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\models\moviegenreviewmodel.cs
+++20220119045534_Rating.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\migrations\20220119045534_rating.cs
+++20220119045534_Rating.Designer.cs
+i:{a4300c1f-5d25-48ba-975d-f9ecb0b628c1}:c:\users\aidan leyden\documents\github\mvcmovie\mvcmovie\mvcmovie\migrations\20220119045534_rating.designer.cs
